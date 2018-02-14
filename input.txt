@@ -1,0 +1,10 @@
+ total 8
+drwxr-xr-x  11 sravyagoli  staff  352 Jan 30 18:29 assign1
+drwxr-xr-x   6 sravyagoli  staff  192 Feb  4 19:17 assign2
+drwxr-xr-x  14 sravyagoli  staff  448 Feb  4 03:04 assign3
+drwxr-xr-x   6 sravyagoli  staff  192 Feb  4 03:22 assign4
+drwxr-xr-x   7 sravyagoli  staff  224 Feb 12 21:46 assign5
+-rw-r--r--@  1 sravyagoli  staff  440 Feb 12 19:39 com.c
+drwxr-xr-x   6 sravyagoli  staff  192 Feb 12 21:49 slides
+-rw-r--r--@  1 sravyagoli  staff    0 Feb  3 21:43 submit.txt
+ 
